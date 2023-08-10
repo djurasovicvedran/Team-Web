@@ -1,0 +1,7 @@
+.hero_container {
+  height: 600px;
+  background-color: blue;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
